@@ -17,6 +17,11 @@ Este material é uma iniciativa independente para auxiliar os alunos, visando fa
 * [Instalação do Flutter + Android](https://medium.com/flutter-comunidade-br/instalando-e-configurando-flutter-no-windows-cae74711df1e#:~:text=Instala%C3%A7%C3%A3o%20do%20Android%20SDK&text=Nesta%20tela%20na%20parte%20de,Packages%20perto%20do%20bot%C3%A3o%20OK
 )
 
+
+## Instalação do Ambiente Flutter (MAC e Linux)
+* [Instalação do Flutter + Android](https://drive.google.com/open?id=1-LbLBehJoz7OL-7AyTnPb_030O7WgsEm)
+
+
 ## Certificações Diversas (Gratuitas e Pagas)
 + [CertiProf](https://certiprof.com/)
 + [Mackenzie](https://www.mackenzie.br/noticias/artigo/n/a/i/mackenzie-disponibiliza-14-cursos-livres-gratuitos-com-certificacao/)
